@@ -2,13 +2,13 @@
 
 ## This is a project to show how to use Firebase Authentication with React and Redux.
 
-### Demo: ...
+Demo: https://react-firebase-auth-4526d.firebaseapp.com/secret
 
 To run locally,
 
 ```
-$ git clone ...
-$ cd ...
+$ git@github.com:stozuka/react-firebase-authentication.git
+$ cd react-firebase-authentication
 $ cp .env.local.example .env.local
 ```
 
@@ -26,3 +26,4 @@ Go to `http://localhost:3000/`.
 - Add email verification when signing up.
 - Add functionality to delete registered account.
 - Add styles.
+- Add spinner when connecting to the auth services.
