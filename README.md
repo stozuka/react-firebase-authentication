@@ -2,7 +2,7 @@
 
 This is a project to show how to use Firebase Authentication with React and Redux.
 
-Demo: `https://react-firebase-auth-4526d.firebaseapp.com/`
+Demo: https://react-firebase-auth-4526d.firebaseapp.com/
 
 To run locally,
 
