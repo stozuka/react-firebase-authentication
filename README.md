@@ -20,11 +20,3 @@ $ yarn start
 ```
 
 Go to http://localhost:3000/.
-
-## Todo list
-
-- Add email verification when signing up.
-- Add functionality to delete registered account.
-- Add styles.
-- Add spinner when connecting to the auth services.
-- Refactoring.
